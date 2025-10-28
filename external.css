@@ -1,0 +1,16 @@
+body {
+      background-color: whitesmoke;
+    }
+    li {
+      background-color: lightgreen;
+      border: 1px solid green;
+    }
+    ul {
+      background-color: lightyellow;
+      border: px solid green;
+      /* padding: 8px; */
+      /* list-style-type: square; */
+      /* margin: 7px; */
+    }
+    
+  
